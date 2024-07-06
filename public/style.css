@@ -1,0 +1,35 @@
+.msg {
+  color: cadetblue;
+  border-radius: 2px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.body {
+  background-color: rgb(220, 220, 178);
+  margin-left: 16px;
+}
+.chat {
+  background-color: antiquewhite;
+  padding: 20px;
+  border-radius: 16px;
+  display: inline-block;
+}
+.button {
+  border-radius: 16px;
+  font-size: medium;
+}
+.time {
+  text-align: right;
+  font-size: x-small;
+}
+
+.heading {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: rgb(77, 101, 101);
+}
+.del {
+  border-radius: 15px;
+}
+.newbody{
+  background-color: antiquewhite;
+}
